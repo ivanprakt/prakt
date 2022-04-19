@@ -58,7 +58,7 @@ ___
 
 ___
 
-###[Cсылка на учебный материал](https://www.youtube.com/watch?v=syrGPPekLHQ)
+[Cсылка на учебный материал](https://www.youtube.com/watch?v=syrGPPekLHQ)
 
 ___
 
@@ -66,7 +66,7 @@ Solarlab[^1]
 [^1]: ООО "СоларЛаб"
 
 
-###[Solarlab](https://solarlab.ru/about.html)
+[Solarlab](https://solarlab.ru/about.html)
 
 ![solar](https://poisk-firm.ru/storage/employer/logo/fc/c4/60/d1f9973c1f3eeac296ff0e3bbb.png)
 ___
